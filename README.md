@@ -1,5 +1,3 @@
-# Dft
-
 # Image Processing and Data Update
 
 This Python script performs image processing on a set of images and updates corresponding data in an Excel file.
